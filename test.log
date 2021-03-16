@@ -1,0 +1,628 @@
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Something has gone very wrong
+You've been warned
+Here's some info
+Meaningless debug information
+[]
+dzinampini@gmaili.com
+2637747565012
+[]
+dzinampini@gmaili.com
+2637747565012
+used first
+[]
+dzinampini@gmaili.com
+2637747565012
+used first
+[]
+dzinampini@gmaili.com
+2637747565012
+used first
+[]
+dzinampini@gmaili.com
+2637747565012
+used first
+[]
+dzinampini@gmaili.com
+2637747565012
+used first
+<pymongo.cursor.Cursor object at 0x000002294DF2A0A0>
+None
+dzinampini@gmaili.com
+2637747565012
+used first
+[{'_id': ObjectId('5feecf224f7588c044bddd00'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}, {'_id': ObjectId('5feecf294f7588c044bddd01'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}, {'_id': ObjectId('5feecf2e4f7588c044bddd02'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}, {'_id': ObjectId('5feecf3a4f7588c044bddd03'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}, {'_id': ObjectId('5ff01180e9da5848f9e40553'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}, {'_id': ObjectId('5ff013069f4e61c278b58b7c'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}, {'_id': ObjectId('5ff0132d9f4e61c278b58b7d'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}, {'_id': ObjectId('5ff0163e26ac4dcdeeeb2e3c'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}, {'_id': ObjectId('5ff0167416e070d57cbdfa68'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}, {'_id': ObjectId('5ff016ce96b6696cf61ba73b'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}, {'_id': ObjectId('5ff0172a1769e41b447bcce2'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}, {'_id': ObjectId('5ff017666769db836da35cea'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}, {'_id': ObjectId('5ff01786d16a4fc9eb8081c0'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}, {'_id': ObjectId('5ff01789d16a4fc9eb8081c1'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}, {'_id': ObjectId('5ff017dc5a1744774b315e43'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}]
+dzinampini@gmaili.com
+2637747565012
+[{'_id': ObjectId('5feecf224f7588c044bddd00'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}, {'_id': ObjectId('5feecf294f7588c044bddd01'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}, {'_id': ObjectId('5feecf2e4f7588c044bddd02'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}, {'_id': ObjectId('5feecf3a4f7588c044bddd03'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}, {'_id': ObjectId('5ff01180e9da5848f9e40553'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}, {'_id': ObjectId('5ff013069f4e61c278b58b7c'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}, {'_id': ObjectId('5ff0132d9f4e61c278b58b7d'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}, {'_id': ObjectId('5ff0163e26ac4dcdeeeb2e3c'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}, {'_id': ObjectId('5ff0167416e070d57cbdfa68'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}, {'_id': ObjectId('5ff016ce96b6696cf61ba73b'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}, {'_id': ObjectId('5ff0172a1769e41b447bcce2'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}, {'_id': ObjectId('5ff017666769db836da35cea'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}, {'_id': ObjectId('5ff01786d16a4fc9eb8081c0'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}, {'_id': ObjectId('5ff01789d16a4fc9eb8081c1'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}, {'_id': ObjectId('5ff017dc5a1744774b315e43'), 'scammer_email': 'dzinampini@gmaili.com', 'scammer_phone': '2637747565012', 'detail': 'nigga scammed me'}]
+[{'_id': ObjectId('5ff01b8599373467bdd9f119'), 'scammer_email': 'dzinampini2@gmaili.com', 'scammer_phone': '26377475650122', 'detail': [{'detail': 'nigga scammed me', 'date_added': datetime.datetime(2021, 1, 2, 7, 6, 45, 510000), 'scammer_statement': '', 'scammer_interviewer': '', 'scammer_respoded_on': '', 'scammed_cleared_charge': False, 'scammer_cleared_on': ''}]}]
+[{'_id': ObjectId('5ff01b8599373467bdd9f119'), 'scammer_email': 'dzinampini2@gmaili.com', 'scammer_phone': '26377475650122', 'detail': [{'detail': 'nigga scammed me', 'date_added': datetime.datetime(2021, 1, 2, 7, 6, 45, 510000), 'scammer_statement': '', 'scammer_interviewer': '', 'scammer_respoded_on': '', 'scammed_cleared_charge': False, 'scammer_cleared_on': ''}]}]
+{'_id': ObjectId('5ff01b8599373467bdd9f119'), 'scammer_email': 'dzinampini2@gmaili.com', 'scammer_phone': '26377475650122', 'detail': [{'detail': 'nigga scammed me', 'date_added': datetime.datetime(2021, 1, 2, 7, 6, 45, 510000), 'scammer_statement': '', 'scammer_interviewer': '', 'scammer_respoded_on': '', 'scammed_cleared_charge': False, 'scammer_cleared_on': ''}]}
+{'_id': ObjectId('5ff01b8599373467bdd9f119'), 'scammer_email': 'dzinampini2@gmaili.com', 'scammer_phone': '26377475650122', 'detail': [{'detail': 'nigga scammed me', 'date_added': datetime.datetime(2021, 1, 2, 7, 6, 45, 510000), 'scammer_statement': '', 'scammer_interviewer': '', 'scammer_respoded_on': '', 'scammed_cleared_charge': False, 'scammer_cleared_on': ''}]}
+{'_id': ObjectId('5ff01b8599373467bdd9f119'), 'scammer_email': 'dzinampini2@gmaili.com', 'scammer_phone': '26377475650122', 'detail': [{'detail': 'nigga scammed me', 'date_added': datetime.datetime(2021, 1, 2, 7, 6, 45, 510000), 'scammer_statement': '', 'scammer_interviewer': '', 'scammer_respoded_on': '', 'scammed_cleared_charge': False, 'scammer_cleared_on': ''}]}
+5ff01b8599373467bdd9f119
+5ff01b8599373467bdd9f119
+5ff020d90ea235b4aee8adef
+get reached
+post reached
+post reached
+post reached
+post reached
+post reached
+post reached
+get reached
+post reached
+get reached
+post reached
+<Request 'http://3ab3fd36705c.ngrok.io/tomcat' [POST]>
+get reached
+post reached
+263774756502
+get reached
+post reached
+get reached
+post reached
+get reached
+post reached
+Hi
+get reached
+There was no error
+There was no error
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+There was no error
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+There was no error
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+Update chat session
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+{'_id': ObjectId('604f83133752c18be662a5ef'), 'status': 'active', 'client': '263774756502', 'messages_history': [{'question': 'Good day! How may we assist you today? Please reply with the number of the service that you require. \n 1. Company Information \n 2. Software products \n 3. Clients portfolio \n 4. Other services', 'answer': ''}]}
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+{'_id': ObjectId('604f83133752c18be662a5ef'), 'status': 'active', 'client': '263774756502', 'messages_history': [{'question': 'Good day! How may we assist you today? Please reply with the number of the service that you require. \n 1. Company Information \n 2. Software products \n 3. Clients portfolio \n 4. Other services', 'answer': ''}]}
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+604f83133752c18be662a5ef
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Our company Tomcat Private Limited is based in ... and was formed in 2007. 
+ 
+ Do you want to know more about us? 
+whatsapp:+263774756502
+Here is some information about our company. Put company information here. Is there something else you want to know? Reply with 1. Yes 2. No
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+It was stage 1
+whatsapp:+263774756502
+Our company Tomcat Private Limited is based in ... and was formed in 2007. 
+ 
+ Do you want to know more about us? 
+ 1. Yes 
+ 2.No
+whatsapp:+263774756502
+Here is some information about our company. Put company information here. Is there something else you want to know? Reply with 1. Yes 2. No
+whatsapp:+263774756502
+Sorry this is not a valid response to the question we sent you. Try responding again
+whatsapp:+263774756502
+Our company Tomcat Private Limited is based in ... and was formed in 2007. 
+ 
+ Do you want to know more about us? 
+ 1. Yes 
+ 2.No
+whatsapp:+263774756502
+Thank you for getting in touch with us. How would you rate our bot on a scale of 1 to 10
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Our company Tomcat Private Limited is based in ... and was formed in 2007. 
+ 
+ Do you want to know more about us? 
+ 1. Yes 
+ 2. No
+whatsapp:+263774756502
+Thank you for getting in touch with us. How would you rate our bot on a scale of 1 to 10
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Our company Tomcat Private Limited is based in ... and was formed in 2007. 
+ 
+ Do you want to know more about us? 
+ 1. Yes 
+ 2. No
+whatsapp:+263774756502
+Thank you for getting in touch with us. How would you rate our bot on a scale of 1 to 10
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Sorry this is not a valid response to the question we sent you. Try responding again
+whatsapp:+263774756502
+Our company Tomcat Private Limited is based in ... and was formed in 2007. 
+ 
+ Do you want to know more about us? 
+ 1. Yes 
+ 2. No
+whatsapp:+263774756502
+Please click this link to be transfered to an agent on support to handle queries today
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Our company Tomcat Private Limited is based in ... and was formed in 2007. 
+ 
+ Do you want to know more about us? 
+ 1. Yes 
+ 2. No
+whatsapp:+263774756502
+Please click this link to be transfered to an agent on support to handle queries today
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Our company Tomcat Private Limited is based in ... and was formed in 2007. 
+ 
+ Do you want to know more about us? 
+ 1. Yes 
+ 2. No
+whatsapp:+263774756502
+Please click this link to be transfered to an agent on support to handle queries today
+whatsapp:+263774756502
+Our company Tomcat Private Limited is based in ... and was formed in 2007. 
+ 
+ Do you want to know more about us? 
+ 1. Yes 
+ 2. No
+whatsapp:+263774756502
+Please click this link to be transfered to an agent on support to handle queries today
+whatsapp:+263774756502
+Our company Tomcat Private Limited is based in ... and was formed in 2007. 
+ 
+ Do you want to know more about us? 
+ 1. Yes 
+ 2. No
+whatsapp:+263774756502
+Please click this link to be transfered to an agent on support to handle queries today
+whatsapp:+263774756502
+Thank you for getting in touch with us.
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Our company Tomcat Private Limited is based in ... and was formed in 2007. 
+ 
+ Do you want to know more about us? 
+ 1. Yes 
+ 2. No
+whatsapp:+263774756502
+Please click this link to be transfered to an agent on support to handle queries today
+whatsapp:+263774756502
+Thank you for getting in touch with us.
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Our company Tomcat Private Limited is based in ... and was formed in 2007. 
+ 
+ Do you want to know more about us? 
+ 1. Yes 
+ 2. No
+whatsapp:+263774756502
+Please click this link to be transfered to an agent on support to handle queries today
+whatsapp:+263774756502
+Thank you for getting in touch with us. How would you rate our bot on a scale of 1 to 10
+whatsapp:+263774756502
+Sorry this is not a valid response to the question we sent you. Try responding again
+whatsapp:+263774756502
+Thank you for getting in touch with us.
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Our company Tomcat Private Limited is based in ... and was formed in 2007. 
+ 
+ Do you want to know more about us? 
+ 1. Yes 
+ 2. No
+whatsapp:+263774756502
+Thank you for getting in touch with us. How would you rate our bot on a scale of 1 to 10
+whatsapp:+263774756502
+Sorry this is not a valid response to the question we sent you. Try responding again
+whatsapp:+263774756502
+Thank you for getting in touch with us. How would you rate our bot on a scale of 1 to 10
+whatsapp:+263774756502
+Thank you for getting in touch with us.
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Here is a list of our software products. Which one do you want to learn more about ? 
+ 1. Reconsol 
+ 2. Hardcat 
+ 3. Stock management system
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Our company Tomcat Private Limited is based in ... and was formed in 2007. 
+ 
+ Do you want to know more about us? 
+ 1. Yes 
+ 2. No
+whatsapp:+263774756502
+Thank you for getting in touch with us. How would you rate our bot on a scale of 1 to 10
+whatsapp:+263774756502
+Sorry this is not a valid response to the question we sent you. Try responding again
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Our company Tomcat Private Limited is based in ... and was formed in 2007. 
+ 
+ Do you want to know more about us? 
+ 1. Yes 
+ 2. No
+whatsapp:+263774756502
+Thank you for getting in touch with us. How would you rate our bot on a scale of 1 to 10
+whatsapp:+263774756502
+Thank you for getting in touch with us.
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Here is a list of our clients. 
+ ThinkPad Pvt Ltd 
+Python Entreprises 
+ Dell Inc 
+Escape Investments 
+ 
+ Do you want to know more information about our clients ? 
+ 1. Yes 2. No
+whatsapp:+263774756502
+Sorry this is not a valid response to the question we sent you. Try responding again
+whatsapp:+263774756502
+Please click this link to be transfered to an agent on support to handle queries today
+whatsapp:+263774756502
+Thank you for getting in touch with us. How would you rate our bot on a scale of 1 to 10
+whatsapp:+263774756502
+Thank you for getting in touch with us.
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Here is a list of our software products. Which one do you want to learn more about ? 
+ 1. Reconsol 
+ 2. Hardcat 
+ 3. Stock management system
+whatsapp:+263774756502
+What do you wish to know about the Hardcat? 
+ 
+ 1. About the software 
+ 2. Installation instructions 
+ 3. Questionnaire 
+ 4. Something else
+whatsapp:+263774756502
+Sorry this is not a valid response to the question we sent you. Try responding again
+whatsapp:+263774756502
+Sorry this is not a valid response to the question we sent you. Try responding again
+Hardcat
+whatsapp:+263774756502
+Sorry this is not a valid response to the question we sent you. Try responding again
+whatsapp:+263774756502
+Sorry this is not a valid response to the question we sent you. Try responding again
+Hardcatim invalid why
+whatsapp:+263774756502
+Sorry this is not a valid response to the question we sent you. Try responding again
+Reconsolim invalid why
+whatsapp:+263774756502
+Sorry this is not a valid response to the question we sent you. Try responding again
+whatsapp:+263774756502
+Sent Reconsole installation instructions here 
+ 
+Did you manage to get all the assistance you wanted? 
+ 1. Yes 
+ 2. No
+whatsapp:+263774756502
+Thank you for getting in touch with us. How would you rate our bot on a scale of 1 to 10
+whatsapp:+263774756502
+Thank you for getting in touch with us.
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Here is a list of our software products. Which one do you want to learn more about ? 
+ 1. Reconsol 
+ 2. Hardcat 
+ 3. Stock management system
+whatsapp:+263774756502
+What do you wish to know about the Stock management system? 
+ 
+ 1. About the software 
+ 2. Installation instructions 
+ 3. Questionnaire 
+ 4. Something else
+whatsapp:+263774756502
+First questionnaire question on Stock management system
+whatsapp:+263774756502
+Second questionnaire question on Stock management system
+whatsapp:+263774756502
+Third questionnaire question on Stock management system
+whatsapp:+263774756502
+Sorry this is not a valid response to the question we sent you. Try responding again
+whatsapp:+263774756502
+Sorry this is not a valid response to the question we sent you. Try responding again
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Here is a list of our software products. Which one do you want to learn more about ? 
+ 1. Reconsol 
+ 2. Hardcat 
+ 3. Stock management system
+whatsapp:+263774756502
+What do you wish to know about the Stock management system? 
+ 
+ 1. About the software 
+ 2. Installation instructions 
+ 3. Questionnaire 
+ 4. Something else
+whatsapp:+263774756502
+First questionnaire question on Stock management system
+whatsapp:+263774756502
+Second questionnaire question on Stock management system
+whatsapp:+263774756502
+Third questionnaire question on Stock management system
+whatsapp:+263774756502
+Thank you for getting in touch with us. How would you rate our bot on a scale of 1 to 10
+whatsapp:+263774756502
+Thank you for getting in touch with us.
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Here is a list of our software products. Which one do you want to learn more about ? 
+ 1. Reconsol 
+ 2. Hardcat 
+ 3. Stock management system
+whatsapp:+263774756502
+What do you wish to know about the Hardcat? 
+ 
+ 1. About the software 
+ 2. Installation instructions 
+ 3. Questionnaire 
+ 4. Something else
+whatsapp:+263774756502
+Alright I shall be handing you over to an agent
+whatsapp:+263774756502
+Thank you for getting in touch with us. How would you rate our bot on a scale of 1 to 10
+whatsapp:+263774756502
+Sorry this is not a valid response to the question we sent you. Try responding again
+whatsapp:+263774756502
+Thank you for getting in touch with us.
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Here is a list of our software products. Which one do you want to learn more about ? 
+ 1. Reconsol 
+ 2. Hardcat 
+ 3. Stock management system
+whatsapp:+263774756502
+What do you wish to know about the Hardcat? 
+ 
+ 1. About the software 
+ 2. Installation instructions 
+ 3. Questionnaire 
+ 4. Something else
+whatsapp:+263774756502
+Alright I shall be handing you over to an agent
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Here is a list of our software products. Which one do you want to learn more about ? 
+ 1. Reconsol 
+ 2. Hardcat 
+ 3. Stock management system
+whatsapp:+263774756502
+What do you wish to know about the Hardcat? 
+ 
+ 1. About the software 
+ 2. Installation instructions 
+ 3. Questionnaire 
+ 4. Something else
+whatsapp:+263774756502
+Please click this link to be transfered to an agent on support to handle queries today 
+ put link herer 
+ 
+ May you assist in rating our services
+whatsapp:+263774756502
+Thank you for getting in touch with us. How would you rate our bot on a scale of 1 to 10
+whatsapp:+263774756502
+Thank you for getting in touch with us.
+whatsapp:+263774756502
+Good day! How may we assist you today? Please reply with the number of the service that you require. 
+ 1. Company Information 
+ 2. Software products 
+ 3. Clients portfolio 
+ 4. Other services
+whatsapp:+263774756502
+Here is a list of our services. Please select the one you are interested in 
+ 1. Networking 
+ 2. Hardware Repairing and Servicing 
+ 3. Software installations
+whatsapp:+263774756502
+Please describe your problem to our technicians. Be as more descriptive as possible
+whatsapp:+263774756502
+Sorry I could not come up with a quotation for what you want but I can still make a booking for you. When do you desire to have the problem fixed?
+whatsapp:+263774756502
+Thank you for getting in touch with us. How would you rate our bot on a scale of 1 to 10
+whatsapp:+263774756502
+Sorry this is not a valid response to the question we sent you. Try responding again
+whatsapp:+263774756502
+Thank you for getting in touch with us.
