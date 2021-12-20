@@ -25,7 +25,6 @@ app.json_encoder = JSONEncoder
 # change to using .env
 app.config['SECRET_KEY'] = 'some secret key of mine'
 app.config['MONGO_URI'] = 'mongodb://localhost:27017/tomcat'
-# app.config['MONGO_URI'] = 'mongodb+srv://user-name:password-name@cluster-name-0ruwl.mongodb.net/herbs_list?retryWrites=true&w=majority'
 app.config['JWT_SECRET_KEY'] = '*tomcat;#zw#finance'
 
 app.config['PROPAGATE_EXCEPTIONS'] = True
@@ -35,12 +34,12 @@ app.config['JWT_BLACKLIST_TOKEN_CHECKS'] = ['access', 'refresh']
 api = Api(app)
 
 mail_settings = {
-    "MAIL_SERVER": 'smtp.gmail.com',
-    "MAIL_PORT": 465,
+    "MAIL_SERVER": '',
+    "MAIL_PORT": 0,
     "MAIL_USE_TLS": False,
     "MAIL_USE_SSL": True,
-    "MAIL_USERNAME": 'mupini.tandi@gmail.com',
-    "MAIL_PASSWORD": 'Kkkkaya1723'
+    "MAIL_USERNAME": '',
+    "MAIL_PASSWORD": ''
 }
 app.config.update(mail_settings)
 

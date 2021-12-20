@@ -28,8 +28,8 @@ cln_sessions = mongo.db.sessions
 
 jwt_secret = '*tomcat;#zw#finance'
 
-account_sid = 'AC697fc91963a9d3f554f2371efde90f26'
-auth_token = 'eac9c84967a821d4c8a6b7b1f5cac0f2'
+account_sid = '='
+auth_token = ''
 client = Client(account_sid, auth_token)
 
 @jwt.user_claims_loader
